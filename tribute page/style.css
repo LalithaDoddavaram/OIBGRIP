@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.header {
+    padding: 10px;
+    background-color: blue;
+}
+
+.head {
+    color: #dead26;
+    font-weight: bold;
+}
+
+img {
+    width: 250px;
+    height: 170px;
+    margin-left: 200px;
+}
+
+.paragraph {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.para {
+    color: black;
+    font-weight: 400;
+}
+
+.heading {
+    color: black;
+    font-weight: 400;
+}
+
+.about {
+    padding: 10px;
+    background-color: #daeef5;
+}
+
+.about-img {
+    width: 300px;
+    height: 200px;
+    margin-left: 50px;
+}
+
+.achievements {
+    background-color: #daeef5;
+    padding: 10px;
+    margin: none;
+}
+
+.career {
+    background-color: #daeef5;
+    margin: none;
+    padding: 10px;
+}
